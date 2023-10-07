@@ -1,0 +1,350 @@
+Depressed JJ B-C
+or CC I-C
+sad JJ I-C
+mood NN I-C
+
+headaches NNS B-C
+, , O
+migraines NNS B-C
+
+Fatigue NN B-C
+
+Motor NN B-C
+Facial JJ I-C
+grimacing NN I-C
+and CC O
+complex JJ B-C
+automatisms NNS I-C
+like IN O
+kicking NN B-C
+and CC O
+pelvic JJ B-C
+thrusting NN I-C
+
+Acute JJ B-C
+inflammatory JJ I-C
+demyelinating NN I-C
+polyradiculoneuropathy NN I-C
+
+Apraxia NN B-C
+
+Fever NNP B-C
+
+Blepharophimosis NNP B-C
+
+The DT O
+Fairy NNP B-C
+Star NNP I-C
+
+Head NN B-C
+movement NN I-C
+- HYPH I-C
+dependent JJ I-C
+oscillopsia NN I-C
+
+a. NNP B-C
+unilateral JJ I-C
+facial JJ I-C
+sensorimotor NN I-C
+symptoms NNS I-C
+
+Anti-inflammatory JJ B-C
+ibuprofen NN I-C
+, , O
+indomethacin NN B-C
+, , O
+phenylbutazone NN B-C
+, , O
+oxyphenbutazone NN B-C
+, , O
+acetazolamide NN B-C
+, , O
+piroxicam NN B-C
+, , O
+diclofenac NN B-C
+. . O
+
+Dehydration NN B-C
+
+Muscle NN B-C
+weakness NN I-C
+
+Respiratory JJ B-C
+failure NN I-C
+
+Angel NNP B-C
+’s POS I-C
+Flight NNP I-C
+through IN I-C
+Mid-Air NNP I-C
+! . O
+
+Lack NN B-C
+of IN I-C
+concentration NN I-C
+
+Infection NN B-C
+
+Rectal JJ B-C
+bleeding NN I-C
+
+Thin JJ B-C
+lips NNS I-C
+
+Weight NN B-C
+loss NN I-C
+and CC O
+/ , O
+or CC O
+loss NN B-C
+of IN I-C
+appetite NN I-C
+
+anhidrosisbladder JJ B-C
+dysfunctionsmall NN I-C
+fiber NN I-C
+peripheral JJ I-C
+neuropathy NN I-C
+
+Metaphysis JJ B-C
+abnormality NN I-C
+
+Pancytopenia NNP B-C
+due IN I-C
+to IN I-C
+leukemia NN I-C
+
+Phlebitis NN B-C
+
+tearful JJ B-C
+
+Positive JJ B-C
+family NN I-C
+history NN I-C
+
+Gastrointestinal JJ B-C
+tract NN I-C
+
+Lack NN B-C
+of IN I-C
+vaginal JJ I-C
+lubrication NN I-C
+
+Family NN B-C
+situations NNS I-C
+with IN I-C
+regular JJ I-C
+conflict NN I-C
+
+Intracranial JJ B-C
+pressure NN I-C
+
+Boss NN B-C
+NS NN I-C
+- HYPH I-C
+2 CD I-C
+Noise NN I-C
+Suppressor NN I-C
+
+Irritability NN B-C
+in IN I-C
+their PRP$ I-C
+personality NN I-C
+. . O
+
+changes NNS B-C
+in IN I-C
+personality NN I-C
+
+Conjunctivitis NNP B-C
+
+Potassium NN B-C
+cyanide NN I-C
+Fialuridine NNP I-C
+
+Pseudoexfoliation NN B-C
+syndrome NN I-C
+
+K CD B-C
+— : I-C
+Ketoacidosis NN I-C
+
+Thinning NN B-C
+and CC I-C
+stiffening NN I-C
+of IN I-C
+the DT I-C
+lips NNS I-C
+
+General JJ B-C
+jarring JJ I-C
+of IN I-C
+the DT I-C
+camera NN I-C
+
+Upper JJ B-C
+respiratory JJ I-C
+tract NN I-C
+infections NNS I-C
+
+Urinary JJ B-C
+dysfunction NN I-C
+. . O
+
+ear NN B-C
+infections NNS I-C
+
+U PRP O
+— , O
+UremiaD NNP B-C
+— , O
+Diabetic JJ B-C
+ketoacidosis NN I-C
+
+Strenuous JJ B-C
+work NN I-C
+. . O
+
+Necrotizing NN B-C
+enterocolitis NN I-C
+
+Madurella NNP B-C
+mycetomatis NNP I-C
+
+Urinary JJ B-C
+dysfunction NN I-C
+. . O
+
+Congenital JJ B-C
+heart NN I-C
+defects NNS I-C
+
+Phosphofructokinase JJ B-C
+deficiency NN I-C
+
+hypoglycemia NN B-C
+
+microcephaly JJ B-C
+
+Banaan NNP B-C
+Electric NN I-C
+
+Ocular JJ B-C
+discomfort NN I-C
+
+Cervical JJ B-C
+lymphadenitis. NN I-C
+
+Impotence NN B-C
+in IN I-C
+men NNS I-C
+
+Space NN B-C
+Master NN I-C
+5.1 CD I-C
+Surround NN I-C
+
+Land NN B-C
+pollution NN I-C
+
+A DT O
+constant JJ B-C
+sense NN I-C
+of IN I-C
+unsteadiness JJ I-C
+, , O
+rocking NN B-C
+or CC O
+swaying NN B-C
+, , O
+dizziness NN B-C
+or CC O
+lightheadedness NN B-C
+
+An DT O
+effect NN B-C
+of IN I-C
+drugs NNS I-C
+, , O
+such JJ O
+as IN O
+the DT O
+use NN B-C
+of IN I-C
+digitalis NN I-C
+, , I-C
+beta-blockers NNS B-C
+, , I-C
+quinidine NN B-C
+, , I-C
+adenosine NN B-C
+, , I-C
+calcium NN B-C
+channel NN I-C
+blocker NN I-C
+chest NN I-C
+pains NNS I-C
+
+Ototoxic NNP B-C
+drugs NNS I-C
+and CC O
+chemicals NNS B-C
+
+Multiple JJ B-C
+pulmonary JJ I-C
+aneurysms NNS I-C
+
+Difficulty NN B-C
+swallowing NN I-C
+
+Overwhelming JJ B-C
+infections NNS I-C
+
+red JJ B-C
+tongue NN I-C
+
+Trigeminal JJ B-C
+neuralgia NN I-C
+
+Klon NNP B-C
+Centaur NNP I-C
+
+Mercury NNP B-C
+in IN I-C
+single JJ I-C
+- HYPH I-C
+usebatteries NNS I-C
+
+Rhodotoxin NNP B-C
+poisoning NN I-C
+. . O
+
+Malabsorption NN B-C
+
+Diarrhea NN B-C
+
+Costello NNP B-C
+syndrome NN I-C
+
+Muscle NN B-C
+cramping NN I-C
+
+Leg NN B-C
+instability NN I-C
+
+Cavernous JJ B-C
+sinus NN I-C
+thrombosis NN I-C
+
+Brain NN B-C
+tumors NNS I-C
+
+Slow JJ B-C
+growth NN I-C
+
+General JJ B-C
+Fever NNP I-C
+, , O
+weight NN B-C
+loss NN I-C
+

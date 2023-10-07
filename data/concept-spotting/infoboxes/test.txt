@@ -1,0 +1,395 @@
+Unknown JJ B-C
+
+Unknown JJ B-C
+
+Wellhead NN B-C
+blowout NN I-C
+
+Centennial NNP B-C
+signing NN I-C
+of IN I-C
+the DT I-C
+Emancipation NNP I-C
+Proclamation NNP I-C
+; , O
+Success NN B-C
+of IN I-C
+Birmingham NNP I-C
+campaign NN I-C
+; , O
+Mass JJ B-C
+movements NNS I-C
+and CC I-C
+demonstrations NNS I-C
+throughout IN I-C
+the DT I-C
+United NNP I-C
+States NNP I-C
+
+Arson NNP B-C
+
+sudden JJ B-C
+severe JJ I-C
+pain NN I-C
+; , O
+abdominal JJ B-C
+pain NN I-C
+after IN I-C
+eating NN I-C
+, , O
+unintentional JJ B-C
+weight NN I-C
+loss NN I-C
+, , O
+vomiting NN B-C
+
+Gold NN B-C
+theft NN I-C
+, , O
+racism NN B-C
+
+Contaminated VBN B-C
+celery NN I-C
+in IN I-C
+chicken NN I-C
+salad NN I-C
+at IN I-C
+various JJ I-C
+retailers NNS I-C
+
+diarrhea NN B-C
+, , O
+abdominal JJ B-C
+pain NN I-C
+, , O
+vomiting NN B-C
+; , O
+swelling NN B-C
+of IN I-C
+the DT I-C
+face NN I-C
+, , O
+inflammation NN B-C
+of IN I-C
+the DT I-C
+whites NNS I-C
+of IN I-C
+the DT I-C
+eyes NNS I-C
+, , O
+fever NN B-C
+, , O
+muscle NN B-C
+pains NNS I-C
+, , O
+rash NN B-C
+
+Signalling NN B-C
+error NN I-C
+
+Infrequent JJ B-C
+or CC I-C
+hard JJ I-C
+to TO I-C
+pass VB I-C
+bowel NN I-C
+movements NNS I-C
+, , O
+abdominal JJ B-C
+pain NN I-C
+, , O
+bloating NN B-C
+
+Trackbed VBN B-C
+washed VBD I-C
+away RB I-C
+
+The DT O
+unveiling NN B-C
+of IN I-C
+a DT I-C
+massive JJ I-C
+string NN I-C
+of IN I-C
+corruption NN I-C
+scandals NNS I-C
+affecting VBG I-C
+the DT I-C
+People NNPS I-C
+'s POS I-C
+Party NNP I-C
+
+French JJ B-C
+government NN I-C
+'s POS I-C
+condemnation NN I-C
+of IN I-C
+Alsatian JJ I-C
+autonomy NN I-C
+
+Human JJ B-C
+papilloma JJ I-C
+virus NN I-C
+
+Suspected VBN B-C
+soil NN I-C
+saturation NN I-C
+from IN I-C
+heavy JJ I-C
+rainfall NN I-C
+
+Brake NN B-C
+failure NN I-C
+
+under IN B-C
+investigation NN I-C
+
+Rolling NNP B-C
+stock NN I-C
+failure NN I-C
+
+Unable JJ B-C
+to TO I-C
+pull VB I-C
+the DT I-C
+foreskin NN I-C
+back RB I-C
+past IN I-C
+the DT I-C
+glans NN I-C
+
+Trauma NN B-C
+, , I-C
+following VBG I-C
+colonoscopy NN I-C
+, , O
+bowel NN B-C
+obstruction NN I-C
+, , O
+colon NN B-C
+cancer NN I-C
+, , O
+diverticulitis NN B-C
+, , O
+stomach NN B-C
+ulcers NNS I-C
+, , O
+ischemic JJ B-C
+bowel NN I-C
+, , O
+C. NN B-C
+difficile NN I-C
+infection NN I-C
+
+Removal NN B-C
+of IN I-C
+subsidy NN I-C
+on IN I-C
+Petroleum NN I-C
+products NNS I-C
+; , O
+120 CD B-C
+% NN I-C
+increase NN I-C
+in IN I-C
+the DT I-C
+price NN I-C
+of IN I-C
+Petrol NN I-C
+; , O
+corruption NN B-C
+in IN I-C
+Government NN I-C
+& CC I-C
+public JJ I-C
+service NN I-C
+; , O
+Inhuman JJ B-C
+treatment NN I-C
+of IN I-C
+Nigerians NNPS I-C
+by IN I-C
+Government NN I-C
+& CC O
+Security NNP B-C
+agents NNS I-C
+; , O
+High JJ B-C
+rate NN I-C
+of IN I-C
+poverty NN I-C
+
+Unpaid JJ B-C
+for IN I-C
+over RB I-C
+a DT I-C
+year NN I-C
+; , O
+Channel NN B-C
+debt NN I-C
+crisis NN I-C
+
+Autoimmune JJ B-C
+disorder NN I-C
+, , O
+abdominal JJ B-C
+trauma NN I-C
+, , O
+history NN B-C
+of IN I-C
+infection NN I-C
+
+Dissolution NN B-C
+of IN I-C
+parliament NN I-C
+
+Leg NN B-C
+swelling NN I-C
+, , O
+feeling VBG B-C
+tired JJ I-C
+, , O
+loss NN B-C
+of IN I-C
+appetite NN I-C
+, , O
+confusion NN B-C
+
+Electrical JJ B-C
+short JJ I-C
+circuit NN I-C
+
+Austerity NN B-C
+; , O
+Unemployment NN B-C
+
+Corruption NN B-C
+, , O
+; , O
+Nepotism NN B-C
+, , O
+; , O
+Regional JJ B-C
+unrest NN I-C
+, , O
+; , O
+Social JJ B-C
+Injustice NN I-C
+
+In IN B-C
+memory NN I-C
+of IN I-C
+the DT I-C
+victims NNS I-C
+of IN I-C
+the DT I-C
+Srebrenica NNP I-C
+genocide NN I-C
+
+Historical JJ B-C
+mistreatment NN I-C
+of IN I-C
+the DT I-C
+Rohingya NNP I-C
+by IN I-C
+the DT I-C
+government NN I-C
+and CC I-C
+Buddhist NNP I-C
+population NN I-C
+; , O
+Initial JJ B-C
+attack NN I-C
+on IN I-C
+border NN I-C
+posts NNS I-C
+in IN I-C
+Myanmar NNP I-C
+by IN I-C
+the DT I-C
+Arakan NNP I-C
+Rohingya NNP I-C
+Salvation NNP I-C
+Army NNP I-C
+on IN I-C
+25 CD I-C
+August NNP I-C
+2017 CD I-C
+
+Fainting NN B-C
+, , O
+hearing NN B-C
+loss NN I-C
+
+Black JJ B-C
+people NNS I-C
+deaths NNS I-C
+during IN I-C
+the DT I-C
+East NNP I-C
+St. NNP I-C
+Louis NNP I-C
+riots NNS I-C
+
+Genetics NNS B-C
+, , O
+certain JJ O
+medication NN B-C
+
+Police NNS B-C
+brutality NN I-C
+, , O
+refusal NN B-C
+to TO I-C
+bring VB I-C
+to IN I-C
+justice NN I-C
+
+Genetic NN B-C
+, , O
+certain JJ O
+medications NNS B-C
+, , O
+low JJ B-C
+blood NN I-C
+potassium NN I-C
+, , O
+low JJ B-C
+blood NN I-C
+calcium NN I-C
+, , O
+heart NN B-C
+failure NN I-C
+
+vague JJ B-C
+; , O
+bloating NN B-C
+, , O
+pelvic JJ B-C
+pain NN I-C
+, , O
+abdominal JJ B-C
+swelling NN I-C
+, , O
+loss NN B-C
+of IN I-C
+appetite NN I-C
+
+Under IN B-C
+investigation NN I-C
+
+Haemothorax NN B-C
+, , O
+empyema NN B-C
+, , O
+tuberculosis NN B-C
+, , O
+uraemia NN B-C
+, , O
+rheumatoid NN B-C
+arthritis NN I-C
+, , O
+pleurodesis NN B-C
+, , O
+medications NNS B-C
+

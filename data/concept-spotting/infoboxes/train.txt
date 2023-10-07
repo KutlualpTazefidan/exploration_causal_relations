@@ -1,0 +1,1513 @@
+Bacterial JJ B-C
+, , O
+fungal JJ B-C
+
+Signal NN B-C
+passed VBD I-C
+at IN I-C
+danger NN I-C
+
+Faulty JJ B-C
+powerlines NNS I-C
+, , O
+arson NN B-C
+, , O
+and CC O
+negligence NN B-C
+after IN I-C
+years NNS I-C
+of IN I-C
+extreme JJ I-C
+drought NN I-C
+
+Human JJ B-C
+cause NN I-C
+
+Autosomal JJ B-C
+recessive JJ I-C
+mutation NN I-C
+of IN I-C
+the DT I-C
+UMPS NNS I-C
+gene NN I-C
+
+Vomiting NN B-C
+, , O
+personality NN B-C
+changes NNS I-C
+, , O
+confusion NN B-C
+, , O
+seizures NNS B-C
+, , O
+loss NN B-C
+of IN I-C
+consciousness NN I-C
+
+Traffic NN B-C
+accident NN I-C
+
+Re-entry NN B-C
+or CC O
+increased VBN B-C
+cardiac JJ I-C
+muscle NN I-C
+automaticity NN I-C
+
+A DT O
+cut NN B-C
+in IN I-C
+wages NNS I-C
+paid VBN I-C
+to IN I-C
+maintenance NN I-C
+workers NNS I-C
+
+Shooting NN B-C
+
+Genetic NN B-C
+and CC I-C
+environmental JJ I-C
+factors NNS I-C
+
+Typically RB O
+multiple JJ B-C
+types NNS I-C
+of IN I-C
+bacteria NN I-C
+
+Tall JJ B-C
+, , O
+learning NN B-C
+problems NNS I-C
+
+Attacks NNS B-C
+on IN I-C
+Burmese JJ I-C
+border NN I-C
+police NN I-C
+posts NNS I-C
+by IN I-C
+unidentified JJ I-C
+insurgents NNS I-C
+; , O
+Historical JJ B-C
+mistreatment NN I-C
+of IN I-C
+the DT I-C
+Rohingya NNP I-C
+by IN I-C
+the DT I-C
+government NN I-C
+; , O
+Existing VBG B-C
+tensions NNS I-C
+between IN I-C
+Buddhist NNP I-C
+and CC I-C
+Muslim JJ I-C
+communities NNS I-C
+
+parathyroid NN B-C
+adenoma NN I-C
+, , O
+multiple JJ B-C
+benign JJ I-C
+tumors NNS I-C
+, , O
+parathyroid NN B-C
+cancer NN I-C
+; , O
+vitamin NN B-C
+D NN I-C
+deficiency NN I-C
+, , O
+chronic NN B-C
+kidney NN I-C
+disease NN I-C
+, , O
+low JJ B-C
+blood NN I-C
+calcium NN I-C
+
+Genetic NN B-C
+
+Lightning NN B-C
+
+Saad NNP B-C
+Hariri NNP I-C
+announced VBD I-C
+his PRP$ I-C
+resigned VBN I-C
+from IN I-C
+Riyadh NNP I-C
+. . O
+
+Viral NN B-C
+, , O
+bacterial JJ B-C
+, , O
+other JJ O
+
+Coronary NN B-C
+heart NN I-C
+disease NN I-C
+, , O
+aortic JJ B-C
+stenosis NN I-C
+, , O
+cardiomyopathy NN B-C
+, , O
+electrolyte NN B-C
+problems NNS I-C
+, , O
+heart NN B-C
+attack NN I-C
+
+Inadvertent JJ B-C
+explosion NN I-C
+of IN I-C
+core NN I-C
+during IN I-C
+emergency NN I-C
+shutdown NN I-C
+of IN I-C
+reactor NN I-C
+whilst IN I-C
+undergoing VBG I-C
+power NN I-C
+failure NN I-C
+test NN I-C
+
+Russian JJ B-C
+Revolution NN I-C
+of IN I-C
+1917 CD I-C
+
+Smoking NN B-C
+, , O
+Lupus NNP B-C
+
+" `` B-C
+Barky NNP I-C
+" '' I-C
+cough NN I-C
+, , O
+stridor NN B-C
+, , O
+fever NN B-C
+, , O
+stuffy JJ B-C
+nose NN I-C
+
+Ciguatoxin NNP B-C
+and CC O
+maitotoxin NN B-C
+within IN I-C
+certain JJ I-C
+reef NN I-C
+fish NN I-C
+
+Economic JJ B-C
+inequality NN I-C
+, , O
+Corporate JJ B-C
+influence NN I-C
+over IN I-C
+government NN I-C
+, , O
+Corruption NN B-C
+in IN I-C
+the DT I-C
+Berlusconi NNP I-C
+'s POS I-C
+Government NN I-C
+inter JJ O
+alia NN O
+. . O
+
+Escaped VBD B-C
+illegal JJ I-C
+campfire NN I-C
+
+Easy JJ B-C
+and CC I-C
+prolonged VBN I-C
+bleeding NN I-C
+
+Privatization NN B-C
+of IN I-C
+Cochabamba NNP I-C
+'s POS I-C
+water NN I-C
+systemand NN I-C
+water NN I-C
+supply NN I-C
+by IN I-C
+Aguas NNP I-C
+del NNP I-C
+Tunari NNP I-C
+
+Signalling NN B-C
+error NN I-C
+
+Spinal JJ B-C
+cord NN I-C
+injury NN I-C
+
+Lightning NN B-C
+
+Excessive JJ B-C
+speed NN I-C
+
+Infection NN B-C
+, , O
+autoimmune JJ B-C
+, , O
+certain JJ O
+medication NN B-C
+, , O
+unknown JJ B-C
+
+Genetic NN B-C
+
+Lump NN B-C
+, , O
+abnormal JJ B-C
+bleeding NN I-C
+, , O
+prolonged VBN B-C
+cough NN I-C
+, , O
+unexplained JJ B-C
+weight NN I-C
+loss NN I-C
+, , O
+change NN B-C
+in IN I-C
+bowel NN I-C
+movements NNS I-C
+
+Contaminated VBN B-C
+beer NN I-C
+, , O
+Burkholderia NN B-C
+gladioli NN I-C
+, , O
+bongkrekic NN B-C
+acid NN I-C
+, , O
+toxoflavin NN B-C
+. . O
+
+Slow JJ B-C
+heart NN I-C
+rate NN I-C
+, , O
+low JJ B-C
+blood NN I-C
+pressure NN I-C
+, , O
+nausea NN B-C
+, , O
+vomiting NN B-C
+, , O
+sleepiness NN B-C
+
+Obesity NN B-C
+, , O
+caffeine NN B-C
+, , O
+constipation NN B-C
+
+Gas NN B-C
+explosion NN I-C
+
+Painless JJ B-C
+raised VBN I-C
+area NN I-C
+of IN I-C
+skin NN I-C
+that WDT I-C
+may MD I-C
+be VB I-C
+shiny JJ I-C
+with IN I-C
+small JJ I-C
+blood NN I-C
+vessel NN I-C
+running VBG I-C
+over IN I-C
+it PRP I-C
+or CC O
+ulceration NN B-C
+
+Excessive JJ B-C
+food NN I-C
+, , O
+lack NN B-C
+of IN I-C
+exercise NN I-C
+, , O
+genetics NNS B-C
+
+Headaches NNS B-C
+, , O
+nausea NN B-C
+, , O
+sensitivity NN B-C
+to IN I-C
+light NN I-C
+, , O
+sensitivity NN B-C
+to IN I-C
+sound NN I-C
+, , O
+sensitivity NN B-C
+to TO I-C
+smell NN I-C
+
+Relatives NNS B-C
+with IN I-C
+schizophrenia NN I-C
+
+Vitamin NNP B-C
+K CD I-C
+deficiency NN I-C
+
+Broken JJ B-C
+axle NN I-C
+
+Bacteria NNP B-C
+
+Trauma NN B-C
+, , O
+repetitive JJ B-C
+arm NN I-C
+movements NNS I-C
+, , O
+tumors NNS B-C
+, , O
+pregnancy NN B-C
+, , O
+cervical JJ B-C
+rib NN I-C
+
+Trouble NN B-C
+swallowing NN I-C
+, , O
+drooling NN B-C
+, , O
+changes NNS B-C
+to IN I-C
+the DT I-C
+voice NN I-C
+, , O
+fever NN B-C
+, , O
+increased VBN B-C
+breathing NN I-C
+rate NN I-C
+, , O
+stridor NN B-C
+
+Poor JJ B-C
+absorption NN I-C
+, , O
+decreased VBN B-C
+intake NN I-C
+, , O
+increased VBN B-C
+requirements NNS I-C
+
+Unknown JJ B-C
+
+Postular NNP B-C
+asphyxiation NN I-C
+
+Corruption NN B-C
+; , O
+Impeachment NN B-C
+of IN I-C
+President NNP I-C
+Park NNP I-C
+Geun NNP I-C
+- , I-C
+hye NNP I-C
+
+Neuroleptic JJ B-C
+medications NNS I-C
+
+" `` B-C
+Drug NN I-C
+toxicity NN I-C
+, , I-C
+days NNS I-C
+, , I-C
+due IN I-C
+to IN I-C
+multiple JJ I-C
+drug NN I-C
+use NN I-C
+, , I-C
+weeks NNS I-C
+" '' I-C
+
+Short JJ B-C
+limb NN I-C
+dwarfism NN I-C
+; , O
+Very RB B-C
+fine JJ I-C
+thin JJ I-C
+light JJ I-C
+hairs NNS I-C
+and CC I-C
+eyebrows NNS I-C
+; , O
+Hyperextensible JJ B-C
+joints NNS I-C
+of IN I-C
+hand NN I-C
+and CC I-C
+feet NNS I-C
+; , O
+Abnormalities NNS B-C
+of IN I-C
+spine NN I-C
+; , O
+Neutropenia NN B-C
+; , O
+Defective JJ B-C
+antibody NN I-C
+and CC O
+cell NN B-C
+mediated VBN I-C
+immunity NN I-C
+
+Accessory NN B-C
+pathway NN I-C
+in IN I-C
+the DT I-C
+heart NN I-C
+
+Unknown JJ B-C
+
+Gas NN B-C
+leak NN I-C
+
+Homicide NN B-C
+by IN I-C
+firearm NN I-C
+
+Broken VBN B-C
+bone NN I-C
+, , O
+Direct JJ B-C
+nerve NN I-C
+injury NN I-C
+
+cigarette NN B-C
+
+Corruption NN B-C
+; , O
+Competition NN B-C
+from IN I-C
+foreign JJ I-C
+investments NNS I-C
+; , O
+Military JJ B-C
+power NN I-C
+struggle NN I-C
+
+Guard NNP B-C
+failed VBD I-C
+to TO I-C
+protect VB I-C
+the DT I-C
+train NN I-C
+
+Discontent NN B-C
+with IN I-C
+the DT I-C
+Shah NNP I-C
+'s POS I-C
+rule NN I-C
+; , O
+Exile NNP B-C
+of IN I-C
+Ayatollah NNP I-C
+Khomeini NNP I-C
+; , O
+Social JJ B-C
+injustice NN I-C
+; , O
+Western JJ B-C
+imperialism NN I-C
+; , O
+Religious JJ B-C
+motives NNS I-C
+; , O
+and CC O
+others NNS O
+
+Avalanche NNP B-C
+
+First JJ B-C
+Shooting NN I-C
+of IN I-C
+Michael NNP I-C
+Brown NNP I-C
+; , O
+Second NNP B-C
+Darren NNP I-C
+Wilson NNP I-C
+not RB I-C
+indicted VBN I-C
+; , O
+Third JJ B-C
+Anniversary NN I-C
+of IN I-C
+shooting NN I-C
+
+Fever NN B-C
+, , O
+cough NN B-C
+, , O
+runny JJ B-C
+nose NN I-C
+, , O
+wheezing NN B-C
+, , O
+breathing NN B-C
+problems NNS I-C
+
+Defective JJ B-C
+bearing NN I-C
+
+Republican JJ B-C
+U.S. NNP I-C
+presidential JJ I-C
+candidate NN I-C
+selection NN I-C
+process NN I-C
+
+Under IN B-C
+investigation NN I-C
+
+Excessive JJ B-C
+speed NN I-C
+over IN I-C
+junction NN I-C
+
+Dust NN B-C
+explosion NN I-C
+
+France NNP B-C
+'s POS I-C
+attack NN I-C
+on IN I-C
+Syria NNP I-C
+; , O
+Labor NNP B-C
+code NN I-C
+reform NN I-C
+; , O
+State NNP B-C
+visits NNS I-C
+; , O
+Macron NNP B-C
+'s POS I-C
+economical JJ I-C
+neoliberal NN I-C
+positions NNS I-C
+
+Under IN B-C
+Investigation NN I-C
+
+failure NN B-C
+of IN I-C
+crowd NN I-C
+control NN I-C
+measures NNS I-C
+, , O
+presence NN B-C
+of IN I-C
+a DT I-C
+large JJ I-C
+number NN I-C
+of IN I-C
+politicians NNS I-C
+
+Fever NN B-C
+, , O
+headache NN B-C
+, , O
+muscle NN B-C
+pains NNS I-C
+, , O
+blistering VBG B-C
+rash NN I-C
+, , O
+swollen JJ B-C
+lymph NN I-C
+nodes NNS I-C
+
+Mass JJ B-C
+murder NN I-C
+, , O
+destruction NN B-C
+and CC O
+looting NN B-C
+
+No DT B-C
+barrier NN I-C
+at IN I-C
+the DT I-C
+Level NN I-C
+crossing NN I-C
+
+Economic JJ B-C
+inequality NN I-C
+, , O
+corporate JJ B-C
+influence NN I-C
+over IN I-C
+government NN I-C
+, , O
+inter JJ O
+alia NN O
+. . O
+
+Words NNS B-C
+omitted VBN I-C
+from IN I-C
+order NN I-C
+to TO I-C
+troop NN I-C
+train NN I-C
+, , I-C
+causing VBG I-C
+it PRP I-C
+to TO I-C
+proceed VB I-C
+rather RB I-C
+than IN I-C
+pull VB I-C
+onto IN I-C
+a DT I-C
+siding NN I-C
+. . O
+
+Signalling NN B-C
+error NN I-C
+
+Loss NN B-C
+of IN I-C
+situational JJ I-C
+awareness NN I-C
+by IN I-C
+train NN I-C
+engineer NN I-C
+
+Usually RB B-C
+infection NN I-C
+
+Unknown JJ B-C
+
+Debris NN B-C
+on IN I-C
+grade NN I-C
+crossing NN I-C
+
+Boat NN B-C
+hit NN I-C
+rocks NNS I-C
+
+Testing NN B-C
+on IN I-C
+new JJ I-C
+fireworks NNS I-C
+
+Trouble NN B-C
+breathing VBG I-C
+through IN I-C
+the DT I-C
+nose NN I-C
+, , O
+loss NN B-C
+of IN I-C
+smell NN I-C
+, , O
+decreased VBN B-C
+taste NN I-C
+, , O
+post AFX B-C
+nasal JJ I-C
+drip NN I-C
+, , O
+runny JJ B-C
+nose NN I-C
+
+Human JJ B-C
+error NN I-C
+
+Fever NN B-C
+, , O
+red JJ B-C
+eyes NNS I-C
+, , O
+joint JJ B-C
+pain NN I-C
+, , O
+headache NN B-C
+, , O
+maculopapular JJ B-C
+rash NN I-C
+
+Fight VB B-C
+for IN I-C
+women NNS I-C
+'s POS I-C
+suffrage NN I-C
+
+Herpes NN B-C
+simplex NN I-C
+virus NN I-C
+
+Revocation NN B-C
+of IN I-C
+the DT I-C
+bankruptcy NN I-C
+of IN I-C
+" `` I-C
+Ciccone NNP I-C
+Calcográfica NNP I-C
+" '' I-C
+printing NN I-C
+house NN I-C
+
+Protest NN B-C
+against IN I-C
+Maharana NNP I-C
+Pratap NNP I-C
+'s POS I-C
+procession NN I-C
+
+Family NN B-C
+history NN I-C
+, , O
+childhood NN B-C
+abuse NN I-C
+, , O
+long JJ B-C
+- HYPH I-C
+term NN I-C
+stress NN I-C
+
+Intrauterine JJ B-C
+growth NN I-C
+retardation NN I-C
+, , O
+short JJ B-C
+stature NN I-C
+, , O
+microcephaly JJ B-C
+, , O
+mild JJ B-C
+mental JJ I-C
+retardation NN I-C
+with IN I-C
+behavior NN I-C
+problems NNS I-C
+, , O
+eczema NN B-C
+, , O
+and CC O
+unusual JJ B-C
+and CC I-C
+distinctive JJ I-C
+faci NN I-C
+
+Groin NN B-C
+pain NN I-C
+, , O
+referred VBN B-C
+knee NN I-C
+and CC O
+thigh NN B-C
+pain NN I-C
+, , O
+waddling VBG B-C
+gait NN I-C
+, , O
+restricted VBN B-C
+range NN I-C
+of IN I-C
+motion NN I-C
+of IN I-C
+leg NN I-C
+
+Mutations NNS B-C
+in IN I-C
+the DT I-C
+MANBA NN I-C
+gene NN I-C
+
+Obesity NN B-C
+, , O
+lack NN B-C
+of IN I-C
+exercise NN I-C
+, , O
+smoking NN B-C
+, , O
+family NN B-C
+history NN I-C
+, , O
+nonsteroidal JJ B-C
+anti-inflammatory JJ I-C
+drugs NNS I-C
+
+Often RB B-C
+unknown JJ I-C
+, , O
+pregnancy NN B-C
+complications NNS I-C
+
+Awareness NN B-C
+but CC I-C
+inability NN I-C
+to TO I-C
+move VB I-C
+during IN I-C
+waking VBG I-C
+or CC O
+falling VBG B-C
+asleep RB I-C
+
+Mycobacterium NN B-C
+ulcerans NNS I-C
+
+Mass JJ B-C
+deportation NN I-C
+of IN I-C
+Salvadoran JJ I-C
+farmers NNS I-C
+from IN I-C
+Honduran JJ I-C
+lands NNS I-C
+, , O
+football NN B-C
+match NN I-C
+
+Trouble NN B-C
+starting VBG I-C
+urination NN I-C
+, , O
+incomplete JJ B-C
+urination NN I-C
+, , O
+urinary JJ B-C
+incontinence NN I-C
+, , O
+frequent JJ B-C
+urination NN I-C
+
+Human JJ B-C
+related JJ I-C
+
+Overweight JJ B-C
+, , O
+legs NNS B-C
+of IN I-C
+a DT I-C
+different JJ I-C
+length NN I-C
+, , O
+job NN B-C
+with IN I-C
+high JJ I-C
+levels NNS I-C
+of IN I-C
+joint JJ I-C
+stress NN I-C
+
+Unknown JJ B-C
+
+Maintenance NN B-C
+of IN I-C
+4620 CD I-C
+
+Pre-eclampsia NN B-C
+
+excessive JJ B-C
+speed NN I-C
+
+Family NN B-C
+history NN I-C
+, , O
+attention NN B-C
+deficit NN I-C
+hyperactivity NN I-C
+disorder NN I-C
+
+Severe JJ B-C
+pain NN I-C
+, , O
+swelling NN B-C
+of IN I-C
+the DT I-C
+abdomen NN I-C
+, , O
+fever NN B-C
+
+Poor JJ B-C
+ability NN I-C
+to TO I-C
+tolerate VB I-C
+cold JJ I-C
+, , O
+feeling VBG B-C
+tired JJ I-C
+, , O
+constipation NN B-C
+, , O
+depression NN B-C
+, , O
+weight NN B-C
+gain NN I-C
+
+Signing NN B-C
+of IN I-C
+bill NN I-C
+allowing VBG I-C
+presidential JJ I-C
+re-election NN I-C
+
+Signal NN B-C
+passed VBD I-C
+at IN I-C
+danger NN I-C
+
+Food NN B-C
+price NN I-C
+increase NN I-C
+
+Repetitive JJ B-C
+movements NNS I-C
+, , O
+pregnancy NN B-C
+, , O
+trauma NN B-C
+, , O
+rheumatic JJ B-C
+diseases NNS I-C
+
+Heavy JJ B-C
+tax NN I-C
+rises NNS I-C
+
+Unknown JJ B-C
+
+Anger NN B-C
+with IN I-C
+47 CD I-C
+- HYPH I-C
+hour NN I-C
+working NN I-C
+week NN I-C
+; , O
+Unemployment NN B-C
+
+Unclear JJ B-C
+
+Laying VBG B-C
+off RP I-C
+hundreds NNS I-C
+of IN I-C
+workers NNS I-C
+at IN I-C
+the DT I-C
+Bahrain NNP I-C
+Petroleum NNP I-C
+Company NNP I-C
+
+Complication NN B-C
+of IN I-C
+systemic JJ I-C
+lupus JJ I-C
+erythematosus NN I-C
+. . O
+
+Chest NN B-C
+pain NN I-C
+, , O
+shortness NN B-C
+of IN I-C
+breath NN I-C
+, , O
+tiredness NN B-C
+
+Accidental JJ B-C
+
+Tobacco NN B-C
+, , O
+obesity NN B-C
+, , O
+poor JJ B-C
+diet NN I-C
+, , O
+lack NN B-C
+of IN I-C
+physical JJ I-C
+activity NN I-C
+, , O
+excessive JJ B-C
+alcohol NN I-C
+, , O
+certain JJ B-C
+infections NNS I-C
+
+Bloody JJ B-C
+diarrhea NN I-C
+, , O
+abdominal JJ B-C
+pain NN I-C
+
+Third JJ B-C
+anniversary NN I-C
+of IN I-C
+ruling VBG I-C
+Brown NNP I-C
+v. NNP I-C
+Board NNP I-C
+of IN I-C
+Education NNP I-C
+; , O
+Massive JJ B-C
+resistance NN I-C
+by IN I-C
+proponents NNS I-C
+of IN I-C
+racial JJ I-C
+segregation NN I-C
+in IN I-C
+education NN I-C
+
+Signal NN B-C
+passed VBD I-C
+at IN I-C
+danger NN I-C
+
+Meteor NN B-C
+air NN I-C
+burst NN I-C
+
+Environmental JJ B-C
+and CC I-C
+genetic JJ I-C
+factors NNS I-C
+
+Pelvic JJ B-C
+pain NN I-C
+, , O
+infertility NN B-C
+
+Deletion NN B-C
+in IN I-C
+the DT I-C
+POMP NN I-C
+gene NN I-C
+
+Gunshot NNP B-C
+
+Excessive JJ B-C
+daytime NN I-C
+sleepiness NN I-C
+for IN I-C
+seconds NNS I-C
+to IN I-C
+minutes NNS I-C
+, , O
+sudden JJ B-C
+loss NN I-C
+of IN I-C
+muscle NN I-C
+strength NN I-C
+, , O
+hallucinations NNS B-C
+
+Lightning NN B-C
+
+Suspicious JJ B-C
+death NN I-C
+of IN I-C
+black JJ I-C
+inmate NN I-C
+
+Authoritarianism NN B-C
+of IN I-C
+Recep NNP I-C
+Tayyip NNP I-C
+Erdoğan NNP I-C
+; , O
+Lack NN B-C
+of IN I-C
+public JJ I-C
+consultation NN I-C
+; , O
+Violation NN B-C
+of IN I-C
+democratic JJ I-C
+rights NNS I-C
+; , O
+Media NN B-C
+censorship NN I-C
+and CC I-C
+disinformation NN I-C
+; , O
+Use NN B-C
+of IN I-C
+excessive JJ I-C
+force NN I-C
+by IN I-C
+police NN I-C
+; , O
+Government NN B-C
+policies NNS I-C
+connected VBN I-C
+to IN I-C
+the DT I-C
+Syrian JJ I-C
+Civil JJ I-C
+War NN I-C
+; , O
+Alcohol NN B-C
+restrictions NNS I-C
+; , O
+Center NN B-C
+- HYPH I-C
+periphery NN I-C
+dissonance NN I-C
+
+Family NN B-C
+history NN I-C
+
+Gunpowder NN B-C
+explosion NN I-C
+due IN I-C
+to IN I-C
+welding NN I-C
+spark NN I-C
+
+Fever NN B-C
+, , O
+weakness NN B-C
+, , O
+headache NN B-C
+
+Lightning NN B-C
+
+Working VBG B-C
+outside RB I-C
+with IN I-C
+one PRP I-C
+'s POS I-C
+hands NNS I-C
+
+Excessive JJ B-C
+speed NN I-C
+
+Family NN B-C
+history NN I-C
+, , O
+female NN B-C
+
+Low JJ B-C
+amounts NNS I-C
+of IN I-C
+oxygen NN I-C
+at IN I-C
+high JJ I-C
+elevation NN I-C
+
+Irregular JJ B-C
+, , I-C
+abnormally RB I-C
+frequent JJ I-C
+, , I-C
+prolonged VBN I-C
+, , I-C
+or CC I-C
+excessive JJ I-C
+amounts NNS I-C
+of IN I-C
+uterine JJ I-C
+bleeding NN I-C
+
+Signaller NN B-C
+'s POS I-C
+error NN I-C
+
+Economic JJ B-C
+and CC I-C
+social JJ I-C
+inequality NN I-C
+, , O
+corporate JJ B-C
+influence NN I-C
+over IN I-C
+government NN I-C
+, , O
+inter JJ O
+alia NN O
+. . O
+
+Trump NNP B-C
+administration NN I-C
+family NN I-C
+separation NN I-C
+policy NN I-C
+
+Derailment NN B-C
+caused VBN I-C
+by IN I-C
+intoxicated JJ I-C
+fireman NN I-C
+. . O
+
+Rash NN B-C
+, , O
+Itchiness NN B-C
+, , O
+Eczematous NN B-C
+lesions NNS I-C
+, , O
+Pain NN B-C
+
+Mother NN B-C
+who WP I-C
+smokes VBZ I-C
+, , I-C
+drinks NNS I-C
+alcohol NN I-C
+, , I-C
+or CC I-C
+is VBZ I-C
+younger JJR I-C
+than IN I-C
+20 CD I-C
+
+Webbed JJ B-C
+neck NN I-C
+, , O
+short JJ B-C
+stature NN I-C
+, , O
+swollen JJ B-C
+hands NNS I-C
+and CC I-C
+feet NNS I-C
+
+Single JJ B-C
+- HYPH I-C
+line NN I-C
+telegraphic JJ I-C
+working NN I-C
+error NN I-C
+
+Arson NN B-C
+, , O
+negligence NN B-C
+, , O
+weather NN B-C
+conditions NNS I-C
+
+Lit VBN B-C
+match NN I-C
+being VBG I-C
+dropped VBN I-C
+into IN I-C
+an DT I-C
+escalator NN I-C
+and CC O
+trench NN B-C
+effect NN I-C
+
+Exposure NN B-C
+to IN I-C
+a DT I-C
+traumatic JJ I-C
+event NN I-C
+
+Suppression NN B-C
+of IN I-C
+Kurdish JJ I-C
+language NN I-C
+; , O
+Institutional JJ B-C
+racism NN I-C
+and CC I-C
+discrimination NN I-C
+; , O
+Banning NN B-C
+of IN I-C
+pro-Kurdish JJ I-C
+political JJ I-C
+parties NNS I-C
+and CC I-C
+political JJ I-C
+repression NN I-C
+; , O
+Imprisonment NN B-C
+of IN I-C
+Abdullah NNP I-C
+Öcalan NNP I-C
+; , O
+Ban NNP B-C
+of IN I-C
+Newroz NNP I-C
+celebrations NNS I-C
+
+Lightning NN B-C
+
+Assassination NN B-C
+of IN I-C
+Martin NNP I-C
+Luther NNP I-C
+King NNP I-C
+, , I-C
+Jr. NNP I-C
+
+Blurry JJ B-C
+vision NN I-C
+, , O
+nearsightedness NN B-C
+, , O
+light JJ B-C
+sensitivity NN I-C
+
+Pain NN B-C
+of IN I-C
+the DT I-C
+shoulder NN I-C
+exacerbated VBN I-C
+by IN I-C
+overhead JJ I-C
+activities NNS I-C
+
+Failure NN B-C
+of IN I-C
+signalman NN I-C
+to TO I-C
+comply VB I-C
+with IN I-C
+rules NNS I-C
+, , O
+inoperative JJ B-C
+sanding NN I-C
+equipment NN I-C
+
+None NN B-C
+, , O
+swelling VBG B-C
+behind IN I-C
+the DT I-C
+knee NN I-C
+, , O
+stiffness NN B-C
+, , O
+pain NN B-C
+
+Pain NN B-C
+, , O
+deformity NN B-C
+, , O
+decreased VBN B-C
+range NN I-C
+of IN I-C
+motion NN I-C
+
+Unclear JJ B-C
+
+Filarial JJ B-C
+worms NNS I-C
+spread VBN I-C
+by IN I-C
+mosquitos NNS I-C
+
+42 CD B-C
+by IN I-C
+lightning NN I-C
+, , O
+9 CD B-C
+by IN I-C
+humans NNS I-C
+
+Osteoporosis NN B-C
+
+Debris NN B-C
+on IN I-C
+track NN I-C
+
+Shortness NN B-C
+of IN I-C
+breath NN I-C
+, , O
+dry JJ B-C
+cough NN I-C
+
+Downed VBN B-C
+power NN I-C
+line NN I-C
+
+Molluscum NN B-C
+contagiosum NN I-C
+virus NN I-C
+spread VBN I-C
+by IN I-C
+direct JJ I-C
+contact NN I-C
+or CC I-C
+contaminated VBN I-C
+objects NNS I-C
+
+Family NN B-C
+history NN I-C
+
+Intravenous JJ B-C
+drug NN I-C
+use NN I-C
+, , O
+sexual JJ B-C
+intercourse NN I-C
+, , O
+dialysis NN B-C
+, , O
+living VBG B-C
+with IN I-C
+an DT I-C
+infected VBN I-C
+person NN I-C
+
+Pinkish JJ B-C
+, , I-C
+triangular JJ I-C
+tissue NN I-C
+growth NN I-C
+on IN I-C
+the DT I-C
+cornea NN I-C
+
+Neurodevelopmental JJ B-C
+disorder NN I-C
+such JJ O
+as IN O
+autism NN B-C
+spectrum NN I-C
+disorder NN I-C
+, , O
+brain NN B-C
+injury NN I-C
+

@@ -1,0 +1,1844 @@
+E NN O
+— , O
+Ethylene NNP B-C
+glycol NN I-C
+
+Social JJ B-C
+, , O
+psychological JJ B-C
+, , O
+and CC O
+other JJ O
+
+Mass NN B-C
+in IN I-C
+the DT I-C
+neck NN I-C
+
+Paraesthesia NN B-C
+or CC O
+numbness NN B-C
+in IN I-C
+the DT I-C
+jaw NN I-C
+
+Tailgating NN B-C
+
+Loin NN B-C
+discomfort NN I-C
+
+Atypical JJ B-C
+antipsychotic JJ I-C
+drugs NNS I-C
+- , O
+ex. NN O
+clozapine NN B-C
+, , O
+aripiprazole NN B-C
+
+Huge JJ B-C
+population NN I-C
+boom NN I-C
+between IN I-C
+1920s NNS I-C
+until IN I-C
+the DT I-C
+mid AFX I-C
+1980s NNS I-C
+. . O
+
+Breast NN B-C
+sagging NN I-C
+, , O
+drooping NN B-C
+or CC O
+ptosis NN B-C
+
+fever NN B-C
+up RP I-C
+to IN I-C
+38 CD I-C
+° IN I-C
+C NNP I-C
+
+Discomfort NN B-C
+or CC O
+pain NN B-C
+
+Pregnancy NN B-C
+complications NNS I-C
+
+joint JJ B-C
+pain NN I-C
+/ , I-C
+swelling NN I-C
+, , O
+
+Fecal NN B-C
+impaction NN I-C
+
+Amnesia NNP B-C
+
+Multiple JJ B-C
+myeloma NN I-C
+
+lymphoproliferative JJ B-C
+disease NN I-C
+such JJ O
+as IN O
+lymphoma NN B-C
+or CC O
+histiocytosis NN B-C
+; , O
+
+Multiple JJ B-C
+myeloma NN I-C
+
+Sympathomimetic JJ B-C
+drug NN I-C
+abuse NN I-C
+
+Dysuria NNP B-C
+
+Speech NN B-C
+disorder NN I-C
+/ , I-C
+delay NN I-C
+
+High JJ B-C
+blood NN I-C
+pressure NN I-C
+or CC O
+hypertension NN B-C
+
+Chronic JJ B-C
+alcoholism NN I-C
+
+Fever NNP B-C
+
+Parathyroid NN B-C
+adenoma NN I-C
+
+Pressure NN B-C
+sores NNS I-C
+
+Hyperactivity NN B-C
+
+Inadequate JJ B-C
+fire NN I-C
+fighting NN I-C
+and CC O
+management NN B-C
+capacity NN I-C
+
+gastrointestinal JJ B-C
+bleeding NN I-C
+
+Alopecia NNP B-C
+
+Chemical JJ B-C
+reaction NN I-C
+with IN I-C
+Interleukin NNP I-C
+and CC O
+Prostaglandin NNP B-C
+
+Shakiness NN B-C
+, , O
+anxiety NN B-C
+, , O
+nervousness NN B-C
+
+swollen JJ B-C
+glands NNS I-C
+in IN I-C
+the DT I-C
+neck NN I-C
+
+weight NN B-C
+loss NN I-C
+. . O
+
+Tooth NN B-C
+mobility NN I-C
+
+Muscle NN B-C
+weakness NN I-C
+
+dehydration NN B-C
+
+Leg NN B-C
+instability NN I-C
+
+Perinatal JJ B-C
+asphyxia NN I-C
+
+Obstructive JJ B-C
+Sleep NN I-C
+Apnea NN I-C
+
+through IN B-C
+defective JJ I-C
+absorption NN I-C
+of IN I-C
+fluid NN I-C
+
+Chyle NNP B-C
+in IN I-C
+vaginal JJ I-C
+discharge NN I-C
+
+juvenile JJ B-C
+osteoporosis NN I-C
+
+anxiety NN B-C
+
+Dysphagia NN B-C
+
+Postpartum NNP B-C
+state NN I-C
+
+Fusarium NNP B-C
+spp. NNS I-C
+
+Excessive JJ B-C
+urination NN I-C
+
+Sleep NN B-C
+disorders NNS I-C
+
+surgical JJ B-C
+and CC I-C
+nonsurgical JJ I-C
+wound NN I-C
+infections NNS I-C
+
+Open JJ B-C
+eye NN I-C
+visualsare NN I-C
+more RBR O
+common JJ O
+than IN O
+OEVs NNS B-C
+. . O
+
+Syncephalastrum NNP B-C
+
+Back RB B-C
+pain NN I-C
+
+Scarring NN B-C
+
+Parental JJ B-C
+neglect NN I-C
+. . O
+
+Spasticity NN B-C
+, , O
+Hypertonia NNP B-C
+
+Depression NNP B-C
+
+a DT O
+rash NN B-C
+on IN I-C
+the DT I-C
+soft JJ I-C
+palate NN I-C
+
+weakness NN B-C
+
+pressing NN B-C
+or CC O
+tighteningquality NN B-C
+
+Wiedemann NNP B-C
+- , I-C
+Steiner NNP I-C
+syndrome NN I-C
+
+Distortion NN B-C
++ SYM I-C
+
+Loss NN B-C
+of IN I-C
+central JJ I-C
+vision NN I-C
+
+Venous JJ B-C
+stasis NN I-C
+
+Distortion NN B-C
+
+Infection NN B-C
+with IN I-C
+the DT I-C
+Diphyllobothrium NN I-C
+latum NN I-C
+tapeworm NN I-C
+
+Borjeson NNP B-C
+Syndrome NN I-C
+
+Idiopathic NN B-C
+
+EarthQuaker NNP B-C
+Devices NNPS I-C
+Disaster NNP I-C
+Transport NNP I-C
+SR NNP I-C
+
+Double JJ B-C
+elevator NN I-C
+palsy NN I-C
+
+Less JJR B-C
+perception NN I-C
+in IN I-C
+pain NN I-C
+or CC O
+temperature NN B-C
+with IN I-C
+nervous JJ I-C
+system NN I-C
+. . O
+
+Intoxicants NNS B-C
+or CC O
+adverse JJ B-C
+reactions NNS I-C
+to IN I-C
+drugs NNS I-C
+
+Weakness NN B-C
+in IN I-C
+forearm NN I-C
+pronation NN I-C
+and CC I-C
+wrist NN I-C
+and CC I-C
+finger NN I-C
+flexion NN I-C
+
+A DT O
+lack NN B-C
+of IN I-C
+user NN I-C
+- HYPH I-C
+friendliness NN I-C
+in IN I-C
+the DT I-C
+editing NN I-C
+interface NN I-C
+
+Eosinophilic JJ B-C
+gastroenteritis NN I-C
+
+powerful JJ B-C
+vasodilators NNS I-C
+, , O
+such JJ O
+as IN O
+dihydropyridine NN B-C
+calcium NN I-C
+channel NN I-C
+blockers NNS I-C
+
+Glutethimide NNP B-C
+Methaqualone NNP I-C
+
+Prostatectomy NN B-C
+- HYPH O
+surgical JJ B-C
+removal NN I-C
+of IN I-C
+the DT I-C
+prostate NN I-C
+. . O
+
+Blepharospasm NNP B-C
+
+Guyatone NNP B-C
+BR NN I-C
+- , I-C
+2 CD I-C
+
+Pain NN B-C
+and CC O
+swelling NN B-C
+around IN I-C
+the DT I-C
+anus NN I-C
+. . O
+
+Metaphysis JJ B-C
+abnormality NN I-C
+
+Deficient JJ B-C
+intake NN I-C
+
+Moodiness NN B-C
+
+Other JJ O
+digoxin NN B-C
+, , O
+ranitidine NN B-C
+, , O
+lenalidomide NN B-C
+, , O
+methyldopa NN B-C
+, , O
+interleukin NN B-C
+2 CD I-C
+, , O
+dobutamine NN B-C
+, , O
+acetazolamide NN B-C
+. . O
+
+Frequent JJ B-C
+or CC I-C
+hard JJ I-C
+coughing NN I-C
+
+Phlebetic NNP B-C
+lymphedema NN I-C
+
+Limited JJ B-C
+verbal JJ I-C
+output NN I-C
+
+Side JJ B-C
+effect NN I-C
+of IN I-C
+some DT I-C
+cardiac JJ I-C
+surgeries NNS I-C
+
+alcohol NN B-C
+flush NN I-C
+reaction NN I-C
+
+Foul NN B-C
+smelling NN I-C
+discharge NN I-C
+from IN I-C
+the DT I-C
+penis NN I-C
+
+Lung NN B-C
+Persistent JJ I-C
+cough NN I-C
+, , O
+breathlessness NN B-C
+, , O
+blood NN B-C
+in IN I-C
+the DT I-C
+sputum NN I-C
+, , O
+hoarseness NN B-C
+of IN I-C
+voice NN I-C
+. . O
+
+Hepatic JJ B-C
+encephalopathy NN I-C
+
+Beta-D-Glucopyranose.svg|Glucose ADD B-C
+
+Mid AFX B-C
+- HYPH I-C
+face NN I-C
+hypoplasia JJ I-C
+and CC O
+mandibular JJ B-C
+protrusion NN I-C
+
+Verbigeration NNP B-C
+
+as IN O
+part NN O
+of IN O
+an DT O
+insurance NN B-C
+scam NN I-C
+
+Syphilis NN B-C
+
+Vintage JJ B-C
+Digitech NNP I-C
+Whammy NN I-C
+
+Urinary JJ B-C
+Strangury NNP I-C
+, , O
+frequent JJ B-C
+micturitions NNS I-C
+. . O
+
+large JJ B-C
+head NN I-C
+
+liver NN B-C
+failure NN I-C
+
+Diarrhea NN B-C
+, , O
+abdominal JJ B-C
+pain NN I-C
+, , O
+and CC O
+/ , O
+or CC O
+stomach NN B-C
+cramps NNS I-C
+
+Moyamoya NNP B-C
+diseaseAssociated JJ I-C
+with IN I-C
+the DT I-C
+use NN I-C
+of IN I-C
+a DT I-C
+midline JJ I-C
+catheter NN I-C
+
+Fever NN B-C
+, , O
+nausea NN B-C
+
+Biedl NNP B-C
+- HYPH I-C
+Bardet NNP I-C
+syndrome NN I-C
+. . O
+
+jerks NNS B-C
+in IN I-C
+the DT I-C
+muscles NNS I-C
+
+Lymphoplasmacytic JJ B-C
+lymphoma NN I-C
+
+Antiarrhythmics NNS B-C
+- , O
+amiodarone NN B-C
+
+Multiple JJ B-C
+prescriptions NNS I-C
+from IN I-C
+different JJ I-C
+providers NNS I-C
+
+Dryness NN B-C
+of IN I-C
+the DT I-C
+eyes NNS I-C
+
+ΔL NN O
+= , O
+extension NN B-C
+of IN I-C
+the DT I-C
+rail NN I-C
+/ , I-C
+track NN I-C
+
+Temper NN B-C
+tantrums NNS I-C
+
+Pulmonary NN B-C
+symptoms NNS I-C
+
+Shock NNP B-C
+
+Multiple JJ B-C
+endocrine JJ I-C
+neoplasia NN I-C
+type NN I-C
+2 CD I-C
+b NN I-C
+
+Entamoeba NN B-C
+moshkovskii NN I-C
+
+Drug NN B-C
+, , O
+food NN B-C
+, , O
+inhalant JJ B-C
+hypersensitivity NN I-C
+
+chest NN B-C
+pain NN I-C
+
+Ileal JJ B-C
+resection NN I-C
+and CC O
+bypass NN B-C
+
+A DT O
+budlike JJ B-C
+shrunken JJ I-C
+uvula NN I-C
+
+Infection NN B-C
+of IN I-C
+the DT I-C
+cornea NN I-C
+post NN I-C
+eye NN I-C
+surgery NN I-C
+. . O
+
+Weight NN B-C
+loss NN I-C
+
+Tinnitus NN B-C
+
+wheezing NN B-C
+
+Sudden JJ B-C
+weight NN I-C
+loss NN I-C
+
+Large JJ B-C
+mouth NN I-C
+
+Sexual JJ B-C
+disorders NNS I-C
+
+Caudate JJ B-C
+nucleus NN I-C
+- , O
+Contralateral JJ B-C
+hemiparesis NN I-C
+, , O
+contralateral JJ B-C
+conjugate NN I-C
+gaze NN I-C
+paresis NN I-C
+, , O
+or CC O
+confusion NN B-C
+
+Cerebellar JJ B-C
+hypoplasia NN I-C
+
+Vomiting NN B-C
+
+Losses NNS B-C
+from IN I-C
+translocation NN I-C
+
+Fast JJ B-C
+heart NN I-C
+rate NN I-C
+
+hemiparesis NN B-C
+
+Dunlop NNP B-C
+MXR NNP I-C
+KFK1 NNP I-C
+Ten CD I-C
+Band NN I-C
+EQ NN I-C
+
+Joint JJ B-C
+inflammation NN I-C
+and CC O
+tenderness NN B-C
+
+Paracrine JJ B-C
+signal NN I-C
+transduction NN I-C
+abnormalities NNS I-C
+
+Mild JJ B-C
+fever NN I-C
+
+cannabis NN B-C
+
+Strongyloidiasis NNP B-C
+
+Ptosis NN B-C
+
+Prominence NN B-C
+of IN I-C
+veins NNS I-C
+and CC I-C
+coarser JJ I-C
+skin NN I-C
+
+B NN B-C
+cells NNS I-C
+low JJ I-C
+but CC I-C
+present JJ I-C
+, , I-C
+but CC I-C
+with IN I-C
+reduction NN I-C
+in IN I-C
+2 CD I-C
+or CC I-C
+more JJR I-C
+isotypesdeficiency NN I-C
+, , O
+BAFF NN B-C
+receptor NN I-C
+deficiency NN I-C
+. . O
+
+Pemphigus NNP B-C
+
+obesity NN B-C
+
+Fever NNP B-C
+
+M NNP O
+— , O
+Methanol NNP B-C
+
+Sensation NN B-C
+of IN I-C
+a DT I-C
+foreign JJ I-C
+body NN I-C
+in IN I-C
+the DT I-C
+eye NN I-C
+
+Short JJ B-C
+stature NN I-C
+
+Head NN B-C
+or CC I-C
+spinal JJ I-C
+trauma NN I-C
+
+Depression NN B-C
+, , O
+hopelessness NN B-C
+, , O
+or CC O
+helplessness NN B-C
+
+Vascular JJ B-C
+septic JJ I-C
+embolism NN I-C
+, , O
+intracranial JJ B-C
+hemorrhage NN I-C
+, , O
+conjunctival JJ B-C
+hemorrhage NN I-C
+, , O
+splinter NN B-C
+hemorrhages NNS I-C
+, , O
+kidney NN B-C
+infarcts NNS I-C
+, , O
+and CC O
+splenic JJ B-C
+infarcts NNS I-C
+. . O
+
+Androgen NN B-C
+dysfunction NN I-C
+
+Ectopic JJ B-C
+pregnancy NN I-C
+
+Lower JJR B-C
+limb NN I-C
+numbness NN I-C
+
+Eyerolling NNP B-C
+
+fever NN B-C
+up RP I-C
+to IN I-C
+38 CD I-C
+° IN I-C
+C NNP I-C
+
+Arthritis NN B-C
+
+Paresis NN B-C
+
+Scoliosis NN B-C
+
+Intellectual JJ B-C
+disability NN I-C
+
+Agenesis NN B-C
+of IN I-C
+the DT I-C
+corpus JJ I-C
+callosum NN I-C
+
+Respiratory JJ B-C
+Syncytial JJ I-C
+Virus NN I-C
+
+Iron NN B-C
+deficiency NN I-C
+
+Edogenous NNP B-C
+schizophrenia. NNP I-C
+
+Multiple JJ B-C
+sclerosis NN I-C
+
+Itching NN B-C
+
+Attention NN B-C
+deficit NN I-C
+hyperactivity NN I-C
+disorder NN I-C
+
+Disinhibition NN B-C
+and CC O
+impulsivity NN B-C
+
+Bipolar JJ B-C
+disorder NN I-C
+
+Headache NN B-C
+
+Verbal JJ B-C
+and CC O
+/ , O
+or CC O
+emotional JJ B-C
+abuseNeglect NN I-C
+
+Chiari JJ B-C
+type NN I-C
+I PRP I-C
+malformation NN I-C
+
+Hyperalimentation NNP B-C
+
+Aspiration NN B-C
+pneumoniaProximal JJ I-C
+limb NN I-C
+weakness NN I-C
+
+Pre-syncope NN B-C
+Fatigue NN I-C
+Dizziness NN I-C
+
+Infertility NN B-C
+due IN I-C
+to IN I-C
+anovulation NN I-C
+
+peritonsillar JJ B-C
+abscess NN I-C
+
+Stuve NNP B-C
+- HYPH I-C
+Wiedemann NNP I-C
+syndrome NN I-C
+
+Blepharospasm NNP B-C
+
+Influenza NN B-C
+virus NN I-C
+A NN I-C
+and CC I-C
+B NN I-C
+
+Stage NN B-C
+III CD I-C
+
+Neurological JJ B-C
+conditions NNS I-C
+; , O
+for IN O
+example NN O
+multiple JJ B-C
+sclerosis NN I-C
+, , O
+spinal JJ B-C
+cord NN I-C
+injury NN I-C
+, , O
+cauda JJ B-C
+equina NN I-C
+syndrome NN I-C
+
+Familial JJ B-C
+primary JJ I-C
+cryofibrinogenemia. NN I-C
+
+COMSPEC=\COMMAND.COM GW O
+COMEXEOVLSYS ADD O
+
+Poor JJ B-C
+concentration NN I-C
+
+Carnitine NNP B-C
+palmitoyltransferase NN I-C
+II CD I-C
+deficiency NN I-C
+
+Mild JJ B-C
+to IN I-C
+severe JJ I-C
+adult JJ I-C
+myopathic JJ I-C
+form NN I-C
+
+irritability NN B-C
+
+Anticonvulsants NNS B-C
+/ , O
+Antipsychotics NNS B-C
+/phenindione NN B-C
+, , O
+phenytoin NN B-C
+, , O
+phenobarbital NN B-C
+, , O
+lamotrigine NN B-C
+, , O
+lamotrigine NN B-C
+, , O
+clozapine NN B-C
+, , O
+valproic NN B-C
+acid NN I-C
+, , O
+carbamazepine NN B-C
+, , O
+desipramine NN B-C
+, , O
+fluoxetine NN B-C
+, , O
+amitriptyline NN B-C
+, , O
+olanzapine NN B-C
+. . O
+
+Opioid NN B-C
+use NN I-C
+
+Psychological JJ B-C
+disorders NNS I-C
+– , O
+eating NN B-C
+disorders NNS I-C
+, , O
+mood NN B-C
+disorders NNS I-C
+, , O
+anxiety NN B-C
+disorders NNS I-C
+, , O
+etc. FW O
+
+Neutropenia NN B-C
+, , O
+anemia NN B-C
+, , O
+and CC O
+thrombocytopenia NN B-C
+
+Participatory JJ B-C
+management NN I-C
+
+Nausea NN B-C
+
+short JJ B-C
+, , I-C
+broad JJ I-C
+nose NN I-C
+
+Other JJ O
+symptoms NNS O
+- , O
+handwriting NN B-C
+
+Seborrheic NN B-C
+dermatitis NN I-C
+
+coagulation NN B-C
+defects NNS I-C
+
+Snowman NN B-C
+sign NN I-C
+or CC O
+` , B-C
+figure NN I-C
+of IN I-C
+8 CD I-C
+configuration NN I-C
+` , I-C
+on IN I-C
+chest NN I-C
+radiograph NN I-C
+
+Cardiovascular JJ B-C
+bypass NN I-C
+
+Missing JJ B-C
+fingers NNS I-C
+or CC I-C
+toes NNS I-C
+
+hypoprolactinemia NN B-C
+
+Diabetes NNS B-C
+mellitus NN I-C
+
+Smoking NN B-C
+
+Weakness NN B-C
+of IN I-C
+the DT I-C
+extraocular JJ I-C
+muscles NNS I-C
+
+Tachycardia NN B-C
+
+Methylmalonic NN B-C
+acidemia NN I-C
+
+Droopiness NN B-C
+of IN I-C
+the DT I-C
+eyelid NN I-C
+
+S3 NNP B-C
+gallop NN I-C
+
+Overload NN B-C
+failure NN I-C
+of IN I-C
+the DT I-C
+outer JJ I-C
+lug NN I-C
+of IN I-C
+the DT I-C
+inboard JJ I-C
+mid-spar NN I-C
+pylon NN I-C
+fitting NN I-C
+. . O
+
+Excessive JJ B-C
+exercise NN I-C
+
+Landfill NN B-C
+leachate NN I-C
+
+Non-alcoholic JJ B-C
+fatty NN I-C
+liver NN I-C
+disease NN I-C
+
+Digital JJ B-C
+Music NN I-C
+GCX NN I-C
+audio NN I-C
+switcher NN I-C
+
+Diabetes NNS B-C
+mellitus NN I-C
+and CC O
+deafness NN B-C
+
+Congenital JJ B-C
+Rupture NN I-C
+of IN I-C
+arterial JJ I-C
+aneurysm NN I-C
+into IN I-C
+an DT I-C
+adjacent JJ I-C
+vein NN I-C
+
+Acid NNP B-C
+rain NN I-C
+
+Severe JJ B-C
+diarrhea NN I-C
+Pancreatic JJ I-C
+fistula NN I-C
+with IN I-C
+loss NN I-C
+of IN I-C
+bicarbonate NN I-C
+rich JJ I-C
+pancreatic JJ I-C
+fluid NN I-C
+
+Thalassemia NN B-C
+
+Lymphoma. NNP B-C
+
+Headache NN B-C
+
+behavioral JJ B-C
+problems NNS I-C
+such JJ O
+as IN O
+hyperactivity NN B-C
+, , O
+aggression NN B-C
+, , O
+outbursts NNS B-C
+and CC O
+repetitive JJ B-C
+movements NNS I-C
+; , O
+
+umbilical JJ B-C
+cord NN I-C
+accidents NNS I-C
+
+Gitelman NNP B-C
+syndrome NN I-C
+. . O
+
+Fructose NN B-C
+1,6-bisphosphatase NN I-C
+deficiency NN I-C
+
+DigiTech NNP B-C
+Whammy NNP I-C
+
+Lactose NN B-C
+intolerance NN I-C
+
+Cardiovascular JJ B-C
+bypass NN I-C
+
+Alpha NNP B-C
+1 CD I-C
+- , I-C
+antitrypsin NN I-C
+deficiency NN I-C
+
+Heart NN B-C
+defects NNS I-C
+
+Entamoeba NN B-C
+coli NN I-C
+
+Narrow JJ B-C
+hips NNS I-C
+and CC O
+rib NN B-C
+cage NN I-C
+
+Sensitivity NN B-C
+to IN I-C
+the DT I-C
+sun NN I-C
+and CC I-C
+bright JJ I-C
+light NN I-C
+
+Advanced JJ B-C
+liver NN I-C
+disease NN I-C
+
+Irregular JJ B-C
+respiration NN I-C
+
+sarcoidosis NN B-C
+with IN I-C
+cutaneous JJ I-C
+involvement NN I-C
+; , O
+
+Too RB B-C
+many JJ I-C
+gates NNS I-C
+
+Vision NN B-C
+impairment NN I-C
+
+Fever NNP B-C
+
+1,505 CD B-C
+Catholic JJ I-C
+families NNS I-C
+
+Maculopapular JJ B-C
+and CC O
+/ , O
+or CC O
+vesicular JJ B-C
+rash NN I-C
+
+Pharyngitis JJ B-C
+Bronchitis NN I-C
+
+spicy JJ B-C
+foods NNS I-C
+
+" `` O
+Freebies NNS B-C
+" '' O
+or CC O
+other JJ B-C
+promotional JJ I-C
+products NNS I-C
+
+Compulsory JJ B-C
+compensation NN I-C
+for IN I-C
+tenant NN I-C
+'s POS I-C
+improvements NNS I-C
+. . O
+
+Cokeromyces NNS B-C
+Family NN I-C
+Saksenaeaceae NN I-C
+
+A DT O
+decrease NN B-C
+in IN I-C
+available JJ I-C
+system NN I-C
+memory NN I-C
+of IN I-C
+3,072 CD I-C
+bytes NNS I-C
+. . O
+
+Digitech NNP B-C
+GSP NN I-C
+1101 CD I-C
+Line6 NN I-C
+G90 NNP I-C
+Wireless JJ I-C
+Unit NN I-C
+
+bruits NNS B-C
+
+Tension NN B-C
+- HYPH I-C
+type NN I-C
+headache NN I-C
+
+Soft JJ B-C
+tissue NN I-C
+bleeding NN I-C
+. . O
+
+Higher JJR B-C
+likelihood NN I-C
+of IN I-C
+youth JJ I-C
+risk NN I-C
+behaviour NN I-C
+amongst IN I-C
+high JJ I-C
+school NN I-C
+students NNS I-C
+
+Hairy JJ B-C
+- HYPH I-C
+cell NN I-C
+leukemia NN I-C
+
+rectal JJ B-C
+tenesmus NN I-C
+
+Nasal JJ B-C
+and CC I-C
+oral JJ I-C
+mucosa NN I-C
+bleeds NNS I-C
+
+Porphyrin NN B-C
+discharge NN I-C
+from IN I-C
+eyes NNS I-C
+and CC I-C
+/ , I-C
+or CC I-C
+nose NN I-C
+
+exposure NN B-C
+to IN I-C
+sulphur NN I-C
+dioxide NN I-C
+
+severe JJ B-C
+systemic JJ I-C
+swelling NN I-C
+of IN I-C
+the DT I-C
+tongue NN I-C
+and CC I-C
+throat NN I-C
+, , O
+difficulty NN B-C
+breathing NN I-C
+, , O
+and CC O
+shock NN B-C
+. . O
+
+panic NN B-C
+, , O
+discomfort NN B-C
+, , O
+and CC O
+uncontrolled JJ B-C
+spontaneous JJ I-C
+movement NN I-C
+; , O
+
+Ethanol NNP B-C
+toxicity NN I-C
+
+Erythema NNP B-C
+. . O
+
+Medication NN B-C
+
+Peritoneum NN B-C
+mesothelioma NN I-C
+
+Edema NNP B-C
+
+Alzheimer NNP B-C
+'s POS I-C
+disease NN I-C
+
+Dysphagia NN B-C
+
+Nutritional NN B-C
+disorders NNS I-C
+, , O
+such JJ O
+as IN O
+vitamin NN B-C
+B1deficiency NN I-C
+
+Dysphagia NN B-C
+
+endometrial JJ B-C
+polyps NNS I-C
+
+Low JJ B-C
+self NN I-C
+- HYPH I-C
+esteem NN I-C
+and CC O
+/ , O
+or CC O
+self NN B-C
+- HYPH I-C
+harming NN I-C
+
+Macrocephaly RB B-C
+
+mass JJ B-C
+deportations NNS I-C
+of IN I-C
+up IN I-C
+to IN I-C
+2 CD I-C
+million CD I-C
+Mexicans NNPS I-C
+and CC I-C
+Mexican JJ I-C
+- HYPH I-C
+American JJ I-C
+workersbetween NN I-C
+1929 CD I-C
+and CC I-C
+1936 CD I-C
+, , I-C
+during IN I-C
+the DT I-C
+Great NNP I-C
+Depression NNP I-C
+; , O
+
+DBX NNP B-C
+1074 CD I-C
+Quad NNP I-C
+Gate NNP I-C
+
+Slow JJ B-C
+or CC I-C
+fast JJ I-C
+heart NN I-C
+rate NN I-C
+
+Instrumental JJ B-C
+delivery NN I-C
+
+Endothelial NN B-C
+injury NN I-C
+Abnormal JJ B-C
+blood NN I-C
+flow NN I-C
+Hypercoagulability NN B-C
+
+3-Methylcrotonyl-CoA GW B-C
+carboxylase NN I-C
+deficiency NN I-C
+
+Theobromine NNP B-C
+; , O
+
+dry JJ B-C
+cough NN I-C
+
+Renal JJ B-C
+dialysis NN I-C
+
+TC NN B-C
+Electronic JJ I-C
+Stereo NN I-C
+Chorus NN I-C
+Flanger NNP I-C
+
+Uncontrollable JJ B-C
+movement NN I-C
+of IN I-C
+arms NNS I-C
+and CC I-C
+legs NNS I-C
+, , I-C
+rarely RB I-C
+out IN I-C
+of IN I-C
+the DT I-C
+water NN I-C
+. . I-C
+
+Trauma NN B-C
+4.7 CD O
+% NN O
+
+Tinnitus NN B-C
+. . O
+
+Insensitivity NN B-C
+to IN I-C
+pain NN I-C
+
+Stretch NN B-C
+marks NNS I-C
+
+Hydrogen NNP B-C
+ions NNS I-C
+Hyperkalemia NN B-C
+or CC O
+Hypokalemia NN B-C
+
+tetany NNP B-C
+
+Aspiration NN B-C
+pneumoniaProximal JJ I-C
+limb NN I-C
+weakness NN I-C
+
+Diseases NNS B-C
+of IN I-C
+the DT I-C
+pituitary JJ I-C
+or CC I-C
+hypothalamus NN I-C
+
+Bowel NN B-C
+obstruction NN I-C
+Acute JJ B-C
+pancreatic JJ I-C
+necrosis NN I-C
+
+Vitamin NNP B-C
+E NN I-C
+deficiency NN I-C
+
+Roemheld NNP B-C
+syndrome NN I-C
+
+Slow JJ B-C
+development NN I-C
+
+Lack NN B-C
+of IN I-C
+concentration NN I-C
+
+painful JJ B-C
+, , O
+fatty NN B-C
+lipomasacross NN I-C
+anatomy NN I-C
+
+Ellis–van NNP B-C
+Creveld NNP I-C
+syndrome NN I-C
+
+very RB B-C
+low JJ I-C
+blood NN I-C
+pressure NN I-C
+; , O
+
+Spontaneous JJ B-C
+abortion NN I-C
+during IN I-C
+pregnancy NN I-C
+
+Toriello NNP B-C
+- HYPH I-C
+Carey NNP I-C
+syndrome NN I-C
+
+headache NN B-C
+
+Traumatic JJ B-C
+introduction NN I-C
+
+fetal JJ B-C
+chromosomal JJ I-C
+anomalies NNS I-C
+like IN I-C
+triploidy NN I-C
+
+Erythema NNP B-C
+
+malaise NN B-C
+
+Thyroidectomy NN B-C
+
+EMP NNP B-C
+or CC O
+electromagnetic JJ B-C
+pulse NN I-C
+from IN I-C
+close JJ I-C
+strikes NNS I-C
+– , O
+especially RB O
+during IN O
+positive JJ B-C
+lightning NN I-C
+discharges NNS I-C
+
+Pharyngitis NNP B-C
+
+Discomfort NN B-C
+with IN I-C
+urination NN I-C
+Incontinence NN B-C
+Bleedingat NN B-C
+end NN I-C
+of IN I-C
+urination NN I-C
+
+Stiffness NN B-C
+in IN I-C
+the DT I-C
+elbow NN I-C
+
+Intrahepatic JJ B-C
+cholestasis NN I-C
+of IN I-C
+pregnancy NN I-C
+, , O
+a DT O
+liver NN B-C
+disorder NN I-C
+during IN I-C
+pregnancy NN I-C
+
+Ptosis NN B-C
+
+chemical JJ B-C
+wastes NNS I-C
+, , O
+primarily RB B-C
+nutrients NNS I-C
+— , I-C
+phosphorus NN I-C
+and CC I-C
+nitrates NNS I-C
+— , I-C
+from IN I-C
+fertilizers NNS I-C
+or CC I-C
+human JJ I-C
+waste NN I-C
+, , O
+
+diabetes NNS B-C
+
+Transient JJ B-C
+hypogammaglobulinemia NN I-C
+of IN I-C
+infancy NN I-C
+
+Nausea NN B-C
+
+Disorganisation NNP B-C
+
+Work NN B-C
+
+Breast NN B-C
+carcinoma NN I-C
+
+Tetany NNP B-C
+
+Marshall NNP B-C
+- , I-C
+Smith NNP I-C
+- , I-C
+Weaver NNP I-C
+syndrome NN I-C
+
+Infections NNS B-C
+by IN I-C
+various JJ I-C
+Toxoplasma NN I-C
+gondii NN I-C
+, , O
+Trypanosoma NN B-C
+cruzi NN I-C
+, , O
+trichinella JJ B-C
+spiralis JJ I-C
+, , O
+Entamoeba NN B-C
+, , O
+and CC O
+Echinococcus JJ B-C
+species NNS I-C
+. . O
+
+Weakness NN B-C
+of IN I-C
+the DT I-C
+extraocular JJ I-C
+muscles NNS I-C
+
+Licking NN B-C
+, , I-C
+chewing NN I-C
+or CC I-C
+biting NN I-C
+stall NN I-C
+walls NNS I-C
+or CC I-C
+feeders NNS I-C
+
+Deficient JJ B-C
+intake NN I-C
+
+hypersensitive JJ B-C
+pneumonitis NN I-C
+
+Boss NN B-C
+DD6 NN I-C
+/ , I-C
+7 CD I-C
+
+distal JJ B-C
+muscle NN I-C
+wasting NN I-C
+
+Ehlers NNP B-C
+- , I-C
+Danlos NNP I-C
+syndrome NN I-C
+
+Acne NN B-C
+scarring NN I-C
+from IN I-C
+post AFX I-C
+-inflammatary JJ I-C
+hyperpigmentation NN I-C
+
+The DT O
+treatment NN B-C
+and CC I-C
+recovery NN I-C
+phases NNS I-C
+of IN I-C
+diabetic JJ I-C
+ketoacidosis NN I-C
+
+by IN O
+excessive JJ B-C
+production NN I-C
+of IN I-C
+fluid NN I-C
+within IN I-C
+the DT I-C
+sac NN I-C
+, , O
+e.g. FW O
+secondary JJ B-C
+hydrocele NN I-C
+
+polycystic JJ B-C
+ovary NN I-C
+syndrome NN I-C
+hypothyroidism NN I-C
+
+Illness NN B-C
+and CC O
+infections NNS B-C
+
+Body NN B-C
+dysmorphic JJ I-C
+Hypotelorism NN I-C
+, , O
+epicanthic JJ B-C
+folds NNS I-C
+, , O
+webbed JJ B-C
+neck NN I-C
+, , O
+small JJ B-C
+palpebral NN I-C
+fissures NNS I-C
+, , O
+ptosis NN B-C
+, , O
+strabismus NN B-C
+, , O
+urogenital JJ B-C
+malformations NNS I-C
+. . O
+
+Weight NN B-C
+loss NN I-C
+
+Infantile JJ B-C
+migraine NN I-C
+
+Side JJ B-C
+effect NN I-C
+of IN I-C
+digoxin NN I-C
+
+Ptosis NN B-C
+
+Low JJ B-C
+blood NN I-C
+calcium NN I-C
+
+Ataxia NN B-C
+of IN I-C
+dorsal JJ I-C
+column NN I-C
+type NN I-C
+
+Progressive JJ B-C
+ophthalmoparesis NN I-C
+
+Erectile NN B-C
+problems NNS I-C
+
+Osteomalacia NN B-C
+and CC O
+rickets NNS B-C
+due IN I-C
+to IN I-C
+deficiency NN I-C
+of IN I-C
+vitamin NN I-C
+D NNP I-C
+
+Hunger NN B-C
+
+Fever NNP B-C
+
+poor JJ B-C
+posture NN I-C
+or CC O
+other JJ O
+mechanical JJ B-C
+or CC I-C
+anatomical JJ I-C
+defects NNS I-C
+, , O
+such JJ O
+as IN O
+joint JJ B-C
+hypermobility NN I-C
+; , O
+
+Degenerative JJ B-C
+disorders NNS I-C
+
+Software NN B-C
+engineering NN I-C
+methodology NN I-C
+
+Sensorineural JJ B-C
+hearing NN I-C
+loss NN I-C
+
+Glucokinase NN B-C
+gain NN I-C
+- HYPH I-C
+of IN I-C
+- HYPH I-C
+function NN I-C
+mutations NNS I-C
+
+swelling NN B-C
+
+Plantar NN B-C
+warts NNS I-C
+; , O
+also RB O
+types NNS O
+2 CD O
+, , O
+3 CD O
+, , O
+4 CD O
+, , O
+27 CD O
+, , O
+28 CD O
+, , O
+and CC O
+58 CD O
+and CC O
+others NNS O
+. . O
+
+dyskinesiadementiaseizure NN B-C
+
+fatigue NN B-C
+
+midline JJ B-C
+lower JJR I-C
+abdominal JJ I-C
+pain NN I-C
+
+Dejerine NNP B-C
+– , I-C
+Sottas NNP I-C
+disease NN I-C
+Down RP B-C
+syndrome NN I-C
+a.k.a. IN O
+trisomy NN B-C
+21 CD I-C
+— , O
+most RBS O
+common JJ O
+

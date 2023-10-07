@@ -1,0 +1,295 @@
+Headache NN B-C
+, , O
+vision NN B-C
+problems NNS I-C
+, , O
+ringing VBG B-C
+in IN I-C
+the DT I-C
+ears NNS I-C
+with IN I-C
+the DT I-C
+heartbeat NN I-C
+
+Lightning NN B-C
+, , O
+human JJ B-C
+error NN I-C
+
+Signals NNS B-C
+obscured VBN I-C
+; , O
+Defective JJ B-C
+signalling NN I-C
+procedure NN I-C
+
+Women NNS B-C
+'s POS I-C
+liberation NN I-C
+
+Abdominal JJ B-C
+pain NN I-C
+, , O
+bone NN B-C
+pain NN I-C
+, , O
+confusion NN B-C
+, , O
+depression NN B-C
+, , O
+weakness NN B-C
+
+Broken JJ B-C
+rail NN I-C
+
+Cobell NNP B-C
+v. NNP I-C
+Salazar NNP I-C
+
+Scaffolding NN B-C
+collapse NN I-C
+due IN I-C
+to IN I-C
+falling VBG I-C
+concrete NN I-C
+
+Worker NN B-C
+error NN I-C
+orGerman JJ I-C
+sabotage NN I-C
+
+Obstructive JJ B-C
+sleep NN I-C
+apnea NN I-C
+, , O
+central JJ B-C
+sleep NN I-C
+apnea NN I-C
+, , O
+mixed VBN B-C
+sleep NN I-C
+apnea NN I-C
+
+crying VBG B-C
+for IN I-C
+three CD I-C
+or CC I-C
+more JJR I-C
+hours NNS I-C
+per IN I-C
+24 CD I-C
+hours NNS I-C
+
+Unclear JJ B-C
+
+Without IN O
+treatment NN O
+intellectual JJ B-C
+disability NN I-C
+, , O
+seizures NNS B-C
+, , O
+behavioral JJ B-C
+problems NNS I-C
+, , O
+mental JJ B-C
+disorders NNS I-C
+, , O
+musty JJ B-C
+smell NN I-C
+
+Mi NNP B-C
+d NNP I-C
+
+Tobacco NN B-C
+smoke NN I-C
+, , O
+family NN B-C
+history NN I-C
+
+Anti-Serb NNP B-C
+sentiment NN I-C
+in IN I-C
+the DT I-C
+aftermath NN I-C
+of IN I-C
+the DT I-C
+assassination NN I-C
+of IN I-C
+Archduke NNP I-C
+Franz NNP I-C
+Ferdinand NNP I-C
+
+Gas NN B-C
+explosion NN I-C
+
+Area NN B-C
+of IN I-C
+swelling NN I-C
+
+Cassette NNP B-C
+scandal NN I-C
+; , O
+Investigation NN B-C
+of IN I-C
+Georgiy NNP I-C
+Gongadze NNP I-C
+disappearance NN I-C
+; , O
+Investigation NN B-C
+of IN I-C
+Vyacheslav NNP I-C
+Chornovil NNP I-C
+death NN I-C
+
+Papules NNS B-C
+pustules VBZ I-C
+red JJ I-C
+skin NN I-C
+
+Asthma NN B-C
+, , O
+cystic JJ B-C
+fibrosis NN I-C
+, , O
+poor JJ B-C
+immune JJ I-C
+function NN I-C
+
+Yersinia NNP B-C
+pestis NN I-C
+
+Smoking NN B-C
+, , O
+obesity NN B-C
+
+Osteopoikilosis NN B-C
+, , O
+bone NN B-C
+pain NN I-C
+
+Downed VBN B-C
+electric JJ I-C
+power NN I-C
+lines NNS I-C
+
+Killing VBG B-C
+Giovanni NNP I-C
+De NNP I-C
+Stefano NNP I-C
+and CC I-C
+wounding VBG I-C
+his PRP$ I-C
+brother NN I-C
+Giorgio NNP I-C
+De NNP I-C
+Stefano NNP I-C
+on IN I-C
+24 CD I-C
+November NNP I-C
+1974 CD I-C
+in IN I-C
+the DT I-C
+Roof NNP I-C
+Garden NNP I-C
+bar NN I-C
+, , O
+an DT O
+infamous JJ B-C
+' `` I-C
+Ndrangheta JJ I-C
+haunt NN I-C
+in IN I-C
+Reggio NNP I-C
+Calabria NNP I-C
+. . O
+
+Unknown JJ B-C
+
+Attempted VBN B-C
+arrest NN I-C
+of IN I-C
+Chief NNP I-C
+Justice NNP I-C
+Francis NNP I-C
+A. NNP I-C
+Chenoweth NNP I-C
+
+Obstruction NN B-C
+on IN I-C
+line NN I-C
+
+Not RB B-C
+enough JJ I-C
+growth NN I-C
+hormone NN I-C
+
+Operator NN B-C
+falling VBG I-C
+asleep RB I-C
+at IN I-C
+controls NN I-C
+
+Eating VBG B-C
+poorly RB I-C
+cooked VBN I-C
+food NN I-C
+, , O
+exposure NN B-C
+to IN I-C
+infected VBN I-C
+cat NN I-C
+feces NNS I-C
+
+Cough NN B-C
+, , O
+difficulty NN B-C
+breathing NN I-C
+, , O
+rapid JJ B-C
+breathing NN I-C
+, , O
+fever NN B-C
+
+Lower JJR B-C
+abdominal JJ I-C
+pain NN I-C
+, , O
+vaginal JJ B-C
+discharge NN I-C
+, , O
+fever NN B-C
+, , O
+burning NN B-C
+with IN I-C
+urination NN I-C
+, , O
+pain NN B-C
+with IN I-C
+sex NN I-C
+, , O
+irregular JJ B-C
+menstruation NN I-C
+
+Chinese JJ B-C
+lantern NN I-C
+
+Police NNS B-C
+serving NN I-C
+bench NN I-C
+warrant NN I-C
+, , I-C
+leading VBG I-C
+to IN I-C
+standoff NN I-C
+
+Autoimmune NNP B-C
+
+yeast NN B-C
+infection NN I-C
+, , O
+rarely RB B-C
+toxic JJ I-C
+shock NN I-C
+syndrome NN I-C
+

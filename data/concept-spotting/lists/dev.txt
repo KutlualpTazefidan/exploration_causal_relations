@@ -1,0 +1,347 @@
+Bone NN B-C
+pain NN I-C
+
+Thirst NN B-C
+- , I-C
+due IN I-C
+to IN I-C
+loss NN I-C
+of IN I-C
+fluids NNS I-C
+
+The DT O
+Mephistophole NNP B-C
+’s POS I-C
+Hat NNP I-C
+
+Sudden JJ B-C
+weight NN I-C
+gain NN I-C
+
+Limited JJ B-C
+upregulation NN I-C
+of IN I-C
+spermine NN I-C
+/ , I-C
+spermidine NN I-C
+N-acetyltransferase NN I-C
+. . O
+
+Display NN B-C
+of IN I-C
+" `` I-C
+Dyslexia NN I-C
+virus NN I-C
+V2.01 NN I-C
+" '' I-C
+. . O
+
+iliac JJ B-C
+hypoplasia NN I-C
+
+Intraductal NNP B-C
+pipilloma NNP I-C
+
+ZFPM2 NNP B-C
+
+Occasional JJ B-C
+formation NN I-C
+of IN I-C
+a DT I-C
+mass NN I-C
+
+sensory JJ B-C
+dysfunction NN I-C
+
+Erectile NN B-C
+problems NNS I-C
+
+Tire NN B-C
+blowouts NNS I-C
+
+Quinine NNP B-C
+
+Foamy NN B-C
+or CC I-C
+bubbly JJ I-C
+urine NN I-C
+
+Muscle NN B-C
+weakness NN I-C
+
+vomiting NN B-C
+
+Euphoria NNP B-C
+
+Low JJ B-C
+lower JJR I-C
+body NN I-C
+blood NN I-C
+pressure NN I-C
+
+furry JJ B-C
+tongue NN I-C
+
+Excessive JJ B-C
+physical JJ I-C
+exercise NN I-C
+and CC O
+physical JJ B-C
+stress NN I-C
+. . O
+
+irritability NN B-C
+or CC O
+malaise NN B-C
+
+Amniotic NN B-C
+band NN I-C
+syndrome NN I-C
+: : O
+particularly RB O
+if IN O
+unilateral JJ O
+
+Wiskott NNP B-C
+– , I-C
+Aldrich NNP I-C
+syndrome NN I-C
+
+Sulfones NNP B-C
+- , I-C
+dapsone NN I-C
+
+spinal JJ B-C
+cord NN I-C
+compression NN I-C
+
+Tuberous JJ B-C
+Sclerosis NN I-C
+
+Sweating NN B-C
+
+Hematuria NN B-C
+
+Narrow JJ B-C
+shoulders NNS I-C
+
+Muscle NN B-C
+weakness NN I-C
+
+Cultural JJ B-C
+factors NNS I-C
+
+Warm JJ B-C
+autoimmune JJ I-C
+hemolytic JJ I-C
+anemia NN I-C
+
+Dan-Echo NNP B-C
+
+Nausea NN B-C
+
+Advanced JJ B-C
+bone NN I-C
+age NN I-C
+
+Unexpected JJ B-C
+moisture NN I-C
+in IN I-C
+the DT I-C
+tailbone NN I-C
+region NN I-C
+
+malnutrition NN B-C
+
+Vox NNP B-C
+V847 NNP I-C
+wah NN I-C
+- , I-C
+wah NN I-C
+pedal NN I-C
+effect NN I-C
+
+Slow JJ B-C
+adjustment NN I-C
+from IN I-C
+dark JJ I-C
+to IN I-C
+light NN I-C
+environments NNS I-C
+and CC I-C
+vice NN I-C
+versa RB I-C
+
+Tech NNP B-C
+21 CD I-C
+– : O
+Sansamp NNP B-C
+Bass NNP I-C
+Driver NN I-C
+
+Destruction NN B-C
+or CC I-C
+degeneration NN I-C
+of IN I-C
+the DT I-C
+cardiac JJ I-C
+conduction NN I-C
+system NN I-C
+or CC I-C
+heart NN I-C
+muscle NN I-C
+cells NNS I-C
+
+Atrophy NN B-C
+of IN I-C
+the DT I-C
+cervix NN I-C
+after IN I-C
+menopause NN I-C
+
+The DT O
+body NN B-C
+of IN I-C
+a DT I-C
+trichobezoarin NN I-C
+the DT I-C
+small JJ I-C
+bowel NN I-C
+and CC I-C
+/ , I-C
+or CC I-C
+in IN I-C
+the DT I-C
+right JJ I-C
+colon NN I-C
+
+Hyde GW B-C
+- GW I-C
+Forster-Mccarthy-Berry ADD I-C
+syndrome NN I-C
+
+CO2 NNP B-C
+
+Trauma NN B-C
+- HYPH I-C
+base NN I-C
+of IN I-C
+neck NN I-C
+, , O
+usually RB B-C
+blunt JJ I-C
+trauma NN I-C
+, , O
+sometimes RB B-C
+surgery NN I-C
+. . O
+
+Degeneration NN B-C
+of IN I-C
+muscle NN I-C
+tissue NN I-C
+
+High JJ B-C
+upper JJ I-C
+body NN I-C
+blood NN I-C
+pressure NN I-C
+
+Poor JJ B-C
+response NN I-C
+to IN I-C
+anaesthetic NN I-C
+or CC I-C
+pain NN I-C
+medication NN I-C
+
+Sphincter NN B-C
+of IN I-C
+Oddi NNP I-C
+dysfunction NN I-C
+
+chills NNS B-C
+
+vasculitis NN B-C
+. . O
+
+Possible JJ B-C
+cerebral JJ I-C
+edema NN I-C
+
+Analog NN B-C
+Delay NN I-C
+EH NN I-C
+- SYM I-C
+100 CD I-C
+
+Periventricular NNP B-C
+leukomalacia JJ I-C
+intraventricular JJ I-C
+hemorrhage NN I-C
+
+Leptosphaeria NNP B-C
+senegalensis NN I-C
+
+Satiety NN B-C
+
+lightheadedness NN B-C
+
+spasticity NN B-C
+
+Recurrent JJ B-C
+infections NNS I-C
+
+Dementia NN B-C
+
+Furman NNP B-C
+power NN I-C
+conditioner NN I-C
+
+Bone NN B-C
+pain NN I-C
+
+excess JJ B-C
+estradiol NN I-C
+and CC O
+/ , O
+or CC O
+estrone NN B-C
+
+headache NN B-C
+
+Abdominal JJ B-C
+pain NN I-C
+or CC O
+cramping NN B-C
+
+Chorus NN B-C
+
+Dysphagia NN B-C
+
+Sickle NN B-C
+cell NN I-C
+anemia NN I-C
+. . O
+
+Joint JJ B-C
+pain NN I-C
+Fatigue NN B-C
+
+Human JJ B-C
+immunodeficiency NN I-C
+virus NN I-C
+
+Copper JJ B-C
+deficiency NN I-C
+
+nausea NN B-C
+, , O
+vomiting NN B-C
+
+large JJ B-C
+head NN I-C
+
+hyperemesis NN B-C
+gravidarum NN I-C
+
